@@ -8,8 +8,10 @@
 	url = https://github.com/klausvigo/kknn
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "phangorn"]
 	path = phangorn
 	url = https://github.com/klausvigo/phangorn
 	shallow = true
 	registered = true
+	oncran = true
