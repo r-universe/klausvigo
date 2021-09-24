@@ -13,3 +13,8 @@
 	url = https://github.com/klausvigo/phangorn
 	shallow = true
 	registered = true
+[submodule "tanggle"]
+	path = tanggle
+	url = https://github.com/klausvigo/tanggle
+	shallow = true
+	registered = true
