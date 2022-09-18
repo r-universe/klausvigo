@@ -6,8 +6,5 @@
   {
     "package": "phangorn",
     "oncran": true
-  },
-  {
-    "package": "tanggle"
   }
 ]
