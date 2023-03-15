@@ -1,10 +1,10 @@
 [
   {
-    "package": "phangorn",
+    "package": "kknn",
     "oncran": true
   },
   {
-    "package": "kknn",
+    "package": "phangorn",
     "oncran": true
   },
   {
