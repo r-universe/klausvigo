@@ -18,3 +18,8 @@
 	url = https://github.com/klausvigo/tanggle
 	shallow = true
 	registered = true
+[submodule "ape"]
+	path = ape
+	url = https://github.com/KlausVigo/ape
+	shallow = true
+	registered = false
