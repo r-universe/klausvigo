@@ -20,6 +20,6 @@
 	registered = true
 [submodule "ape"]
 	path = ape
-	url = https://github.com/KlausVigo/ape
+	url = https://github.com/emmanuelparadis/ape
 	shallow = true
 	registered = false
