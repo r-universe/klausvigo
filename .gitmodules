@@ -13,5 +13,5 @@
 	url = https://github.com/klausvigo/tanggle
 [submodule "ape"]
 	path = ape
-	url = https://github.com/emmanuelparadis/ape
+	url = https://github.com/KlausVigo/ape
 	registered = false
