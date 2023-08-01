@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ape"]
+	path = ape
+	url = https://github.com/emmanuelparadis/ape
+	registered = false
 [submodule "kknn"]
 	path = kknn
 	url = https://github.com/klausvigo/kknn
@@ -11,7 +15,3 @@
 [submodule "tanggle"]
 	path = tanggle
 	url = https://github.com/klausvigo/tanggle
-[submodule "ape"]
-	path = ape
-	url = https://github.com/emmanuelparadis/ape
-	registered = false
