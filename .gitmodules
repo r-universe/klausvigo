@@ -6,10 +6,6 @@
 	path = ape
 	url = https://github.com/EmmanuelParadis/ape
 	registered = false
-[submodule "apex"]
-	path = apex
-	url = https://github.com/KlausVigo/apex
-	registered = false
 [submodule "kknn"]
 	path = kknn
 	url = https://github.com/klausvigo/kknn
