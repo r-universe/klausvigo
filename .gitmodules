@@ -12,6 +12,3 @@
 [submodule "phangorn"]
 	path = phangorn
 	url = https://github.com/klausvigo/phangorn
-[submodule "tanggle"]
-	path = tanggle
-	url = https://github.com/klausvigo/tanggle
